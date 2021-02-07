@@ -1,6 +1,18 @@
 # skills-vue-animation-routing
 
-## Project setup
+## Start from scratch
+```
+npm install -g @vue-cli
+cd desktop
+vue create skills-vue-animation-routing
+package manager : npm
+cd project-name
+code .
+open integrated terminal 
+npm install vue-router 
+npm run serve
+```
+## Project setup after clone
 ```
 npm install
 ```
@@ -20,5 +32,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Final result 
+![Finalversion](vue-video.gif)
